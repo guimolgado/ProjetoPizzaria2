@@ -1,0 +1,94 @@
+body {
+    background-image: url(https://media.gazetadopovo.com.br/2023/07/10171212/bigstock-Wood-Fire-Cheesy-Pizza-Slice-I-458241689-960x540.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-color: #eeff00;
+    color: hsl(0, 0%, 0%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar-custom {
+    background-color: #eeff00; 
+}
+
+.apresentação{
+ 
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#imagem1{
+    width: 1350px;
+  height: 224px;
+}
+
+.footer {
+    padding: 10px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+button{
+    border: none;
+    margin-left: 2px;
+    margin-top: 2px;
+    background-color: #eeff00;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.sabores{
+    display: flex;
+    flex: row;
+    margin-left: 10px;
+}
+
+#calabresa{
+    margin-left: 20px;
+}
+
+#quatro{
+    margin-left: 20px;
+}
+
+#peperoni{
+    margin-left: 20px;
+}
+
+#muçarela{
+    margin-left: 20px;
+}
+
+.botao1{
+    display: flex;
+    flex-direction: column; 
+    margin-left: 2px;
+}
+
+.sabores2{
+    display: flex;
+    flex: row;
+    margin-left: 10px;
+}
+
+#catuperoni{
+ margin-left: 20px;
+}
+
+#catubeleza{
+margin-left: 20px;
+}
+#camarao1{
+margin-left: 20px;
+}
+
+#camarao2{
+margin-left: 20px;
+}
+
+
